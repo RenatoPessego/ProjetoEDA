@@ -1,0 +1,9 @@
+﻿  Arvore.cpp
+  Carro.cpp
+  ET.cpp
+  Gestao.cpp
+  Main.cpp
+C:\Users\Renato\source\repos\2fase\Main.cpp(4,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Oficina.cpp
+  Gerando Código...
+  2fase.vcxproj -> C:\Users\Renato\source\repos\2fase\x64\Debug\2fase.exe
