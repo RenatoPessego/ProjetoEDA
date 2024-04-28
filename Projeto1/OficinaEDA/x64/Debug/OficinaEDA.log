@@ -1,0 +1,6 @@
+﻿  Ficheiros.cpp
+C:\Users\renat\source\repos\PaulAlv99\OficinaEDA\Ficheiros.cpp(45,31): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\renat\source\repos\PaulAlv99\OficinaEDA\Ficheiros.cpp(54,31): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  Oficina.cpp
+  Gerando Código...
+  OficinaEDA.vcxproj -> C:\Users\renat\Source\Repos\PaulAlv99\OficinaEDA\x64\Debug\OficinaEDA.exe
